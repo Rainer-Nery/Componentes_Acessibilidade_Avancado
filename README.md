@@ -1,5 +1,5 @@
 # Componentes_Acessibilidade_Avançado
-Curso de Angular: [Angular: avançando no design de componentes com acessibilidade](https://cursos.alura.com.br/course/angular-avancando-componentes-acessibilidade)
+Curso de Angular: [Avançando no design de componentes com acessibilidade](https://cursos.alura.com.br/course/angular-avancando-componentes-acessibilidade)
 
 Utilizando padrões da [W3C](https://www.w3.org/WAI/standards-guidelines/wcag/), Criação de um modal form aplicando padrões de acessibilidade
 
